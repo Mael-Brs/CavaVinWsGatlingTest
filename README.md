@@ -1,2 +1,2 @@
-# CavaVinWsGatlingTest
-Gatling performance test
+# CavaVinWs Gatling Tests
+Gatling performance tests for CavaVinWs project
